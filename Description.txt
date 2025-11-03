@@ -1,0 +1,463 @@
+RAADS–R
+Published: April 4, 2020
+Last updated on September 17, 2025
+Contents
+0.1 Have you ever wondered if autism could explain how you experience the world?
+1 Who the test is designed for
+2 Versions & translations
+3 Taking the test
+4 Scoring
+5 Subscales
+6 Average scores
+7 Mean scores
+8 Validity
+9 Discussion
+10 The RAADS–R
+11 What do my scores mean?
+12 Statements per subscales
+13 Recommended next steps
+14 References
+15 Tags
+16 Disclaimer
+Have you ever wondered if autism could explain how you experience the world?
+Take a few minutes to explore the RAADS-R, an 80-item self-report tool designed to uncover developmental, social, sensory, and communication traits that may indicate autism, especially in adults who were missed or misdiagnosed earlier in life.
+
+The Ritvo Autism Asperger Diagnostic Scale–Revised (RAADS‑R) is a validated instrument that helps identify autism in adults by examining lifelong patterns of cognition, perception, and behaviour. It’s especially helpful for those who relate to autistic traits but were not recognized due to masking, gender bias, or late-identified neurodivergence.
+
+The Ritvo Autism Asperger Diagnostic Scale–Revised (RAADS–R) is a self-report questionnaire designed to identify adult autistics who “escape diagnosis” due to a subclinical level presentation.
+
+Basic information
+Statements:	80
+Duration:	10–30 minutes
+Type:	Screening tool
+Authors:	Riva Ariella Ritvo et al.
+Publishing year:	2011
+Seminal paper:	The Ritvo Autism Asperger Diagnostic Scale-Revised (RAADS–R): A Scale to Assist the Diagnosis of Autism Spectrum Disorder in Adults: An International Validation Study (Ritvo et al., 2011)
+Original RAADS
+Statements:	78
+Publishing year:	2008
+Seminal paper:	A Scale to Assist the Diagnosis of Autism and Asperger’s Disorder in Adults (RAADS): A Pilot Study (Ritvo et al., 2008)
+Take the test here:
+
+RAADS–R
+Dr. Natalie Engelbrecht’s rating: 2 stars for appropriate and respectful wording, 1 stars for clarity & lack of ambiguity, and 4 stars for testing accuracy.
+Who the test is designed for
+
+Adults (age 16+) with ASD level 1 or subclinical autism.
+Adults with IQ in the normal range (IQ >=80).[1]
+Versions & translations
+
+The RAADS–R has been translated into Swedish, and was also available in most languages through Google Translate. But as of 13 January 2022, it seems the online RAADS–R tests have been taken down. As far as we know, we are currently the only ones who host the RAADS–R online, albeit in English only.
+
+Taking the test
+
+The RAADS–R is a self-report instrument. However, the authors mention that a clinician might help a participant interpret items if they have difficulty understanding the question.
+
+The test assesses developmental symptoms correlating with the three DSM-5 diagnostic categories (Language, Social relatedness, and Sensory–motor), as well as a fourth subscale, Circumscribed interests. It consists of 80 statements, giving you 4 choices for each statement:
+
+True now and when I was young
+True now only
+True only when I was younger than 16
+Never true
+If you decide to take the test, please consider the Discussion section below.
+
+Scoring
+
+Thresholds
+The scoring range of the RAADS–R is 0–240. A score of 65+ indicates you are likely autistic, as no neurotypical scored above 64 in the research. A score of <65 means you are likely not autistic. However, note that no single test is conclusive. For more certainty, we suggest taking a few other autism tests as well.
+
+In the table below, you can see the threshold scores and maximum possible scores for the subscales of the RAADS–R.
+
+RAADS–R scores
+❮
+Construct	Threshold_score	Maximum_score
+Total_score	65	240
+Language	4	21
+Social_relatedness	31	117
+Sensory–motor	16	60
+Circumscribed_interests	15	42
+❯
+To see how your score compares to other people’s, have a look at the Average scores section. For more information on the RAADS–R subscales, have a look at the Subscales section below.
+
+Scoring methods
+You can take the test using two methods:
+
+Automated-scoring
+Paper-based if you want documentation of your answers (you can find the scoring key at the bottom of the PDF)
+Scoring
+The scoring of most of the statements (63) is as follows:
+
+True now and when I was young (3 points)
+True now only (2 points)
+True only when I was younger than 16 (1 point)
+Never true (0 points)
+However, the point value is reversed for the 17 so-called normative questions:[2]
+
+True now and when I was young (0 points)
+True now only (1 point)
+True only when I was younger than 16 (2 points)
+Never true (3 points)
+Below you can see an example of the first 3 questions, the first of which (denoted by an asterisk) is normative and thus has reversed scoring.
+
+Example questions of the RAADS-R (‘I am a sympathetic person’, ‘I often use words and phrases from movies and television in conversations’, ‘I am often surprised when others tell me I have been rude’).
+
+Subscales
+
+Language
+The language subscale is made up of 7 statements. The focus of these statements is on:
+
+Movie talk: Friends notice you’ve heard something new because you start using the word or phrase regularly.
+Small talk: A light conversation about unimportant things that people make during social interactions—instead of topics that are actually interesting and fun to talk about.
+Being literal: Having challenges when ‘what is said’ language does not match ‘what is meant’ language.
+Social relatedness
+The social relatedness subscale is made up of 39 statements. The focus of these statements is on:
+
+Mentalization: Challenges with understanding what others are thinking or feeling.
+Mutual interests: Preferring to be with people with whom you share interests.
+Outsider: Being considered ‘different’.
+Bluntness: Being called rude; or that you have asked embarrassing questions; or pointed out when others have made an error.
+Dialectical reciprocity: Challenges knowing when it is your turn to talk, in a conversation or on the phone.
+Emotional reciprocity: Difficulty knowing when a person is flirting with you.
+Auditory processing issues: Challenges talking with several people at the same time.
+Object permanence: Not missing people when they’re absent.
+Maintaining relationships: Challenges making or keeping friends.
+Nonverbal communication: Challenges understanding body language.
+Mimicry/imitation: Copying others’ behaviour to fit in.
+Camouflaging: Hiding your automatic behaviours to fit in with others.
+Sensory–motor
+The sensory–motor subscale is made up of 20 statements. The focus of these statements is on:
+
+Voice volume challenges: Talking very loud, not loud enough, or significant fluctuations between the two.
+Voice differences: Speaking monotone, like a child, or in silly voices.
+Motor control issues: Clumsiness and being uncoordinated.
+Sensory: Sensory stimulation that doesn’t bother others can be painful and overwhelming. The experience can differ significantly at various times or be context-dependent. You may get anxious when overstimulated.
+Circumscribed interests
+The circumscribed interests subscale is made up of 14 statements. The focus of these statements is on:
+
+Details preference: focuses on details before the big picture, but can do both.
+Upset when the unexpected occurs: A dislike of someone changing your routine—this does not mean that you stick to your own routine, just that you dislike someone else changing YOUR routine.
+Special interests: Speaking about them, having them…
+Average scores
+
+The table below shows the average total scores and subscores for people taking the RAADS-R, divided by autistic people, suspected autistic people, and non-autistic people (neurotypicals).
+
+Note: There is no data on how non-binary people score. In the absence of this information, we suggest either looking at the scores associated with your sex, or taking the average of two sexes.
+
+Average RAADS-R scores
+❮
+Total score	Language	Social_relatedness	Sensory/motor	Circumscribed_interests
+Autism_threshold_values	65.0	4.0	31.0	16.0	15.0
+Autistic_males	148.6	11.9	71.3	36.7	28.7
+Autistic_females	160.4	12.8	73.5	43.1	31.0
+Suspected_autistic_males	141.6	11.2	70.0	33.3	27.2
+Suspected_autistic_females	145.2	11.3	67.2	38.7	28.0
+Neurotypical_males	84.2	6.6	43.0	19.0	15.7
+Neurotypical_females	91.6	6.8	42.8	24.8	17.2
+❯
+You might ask, “If the threshold score is 65, and no neurotypicals scored higher than 64 in the research, then why are the average neurotypical scores above 80?” Excellent question!
+
+The answer is in how the data is being collected. The table above is based on people taking the RAADS–R online, which for research purposes starts with the question as to whether you are diagnosed with autism, suspect you’re autistic, or are not autistic. But some people that answered the latter will—contrary to their own expectations—end up scoring in the autistic range. Due to this misattribution, their scores get counted as neurotypical scores despite scoring in the autistic range, thus skewing the results.
+
+In other words, the average neurotypical scores as reported by the online RAADS–R (on Aspietests.org) are almost certainly too high. The average scores you can find in the research literature are more reliable, given that they use genuine neurotypicals as a control group. In the article below, you can find a table with average scores that I have taken from the research literature.
+
+A summary of the autism tests & scores
+
+Mean scores
+
+Because the table with average scores is based on skewed data, let me also present the mean scores from Ritvo’s seminal paper:[3]
+
+Mean RAADS–R scores
+❮
+Mean total	Range	Language	Social_relatedness	Sensory/motor	Circumscribed_interests
+Autistic spectrum (n = 66)	133.83	44–227	11.08	67.89	32.82	28.11
+Asperger (n = 135)	—	—	10.06	65.07	28.96	27.44
+Controls (n = 276)	25.95	0–65	1.86	9.24	5.26	5.03
+❯
+Validity
+
+The RAADS–R is a reliable instrument to assist the diagnosis of autistic adults.[4]
+
+No neurotypical who took the test scored above the autism threshold.
+Only 3% of the autistic group did not score over 65.
+Test–retest reliability was high, particularly for the autistic group.[5]
+Here is how the RAADS–R measures up:
+
+RAADS-R validity
+Measure	Result	Meaning
+Sensitivity	97%	Test’s ability to identify positive results
+Specificity	100%	Test’s ability to identify negative results
+Concurrent_validity	96%	Test’s validity compared with ADOS Module 4, SRS
+Test–retest_reliability	.987	Test’s agreement between results of successive measurements
+
+Sensitivity
+A sensitivity of 97% means that 97% of autistic people who took the test met the cutoff score and were accurately classified as autistic. Said another way, it represents the proportion of autistics who were correctly classified as autistic based on the questionnaire.
+
+In contrast, a 100% specificity score means that all (100% of) the neurotypical people who took the test were below the cutoff score and were accurately classified as non-autistic. It represents the proportion of neurotypicals who were correctly classified as neurotypical based on the questionnaire.
+
+The takeaway is that the RAADS–R has a high probability of accurately classifying those who take the test as autistic or not autistic.
+
+Total RAADS–R score
+A total RAADS–R score of 65 or higher is consistent with the diagnosis of autism and supports a clinician’s diagnosis. However, if there is a difference between the clinician’s diagnosis and the RAADS–R diagnostic assignment, the clinician’s diagnosis should take precedent. This is because symptoms may be revealed only during an interview.
+
+Also, the RAADS–R standardization study reported that many autism subjects, particularly those in their late teens and early twenties, failed to acknowledge the presence of symptoms that their families said were present and which were readily observed by the diagnostician.[6]
+Age, gender, & self-expectancy of autism
+Research also shows that a person’s age, gender, autism diagnosis, or whether an individual considered themselves to be autistic did not impact how they understood the survey; the only relevant factor is their actual neurotype. A 2024 study shows that diagnosed autistics and undiagnosed individuals who considered themselves to be autistic responded to the survey in a similar way; whereas those who were unsure whether they’re autistic were more different in their responses.[7]
+
+Interested in diving deeper?
+If your CAT‑Q score suggests significant camouflaging patterns, consider taking related measures like the CAT-Q, Autism Quotient, or Empathy Quotient—and reflect with a trusted practitioner or peer-support community.
+
+Subscribe to our newsletter for more insights into self-discovery as an autistic adult, and find professional support for a full autism or AuDHD assessment.
+
+ RAADS–R
+Published: April 4, 2020
+Last updated on September 17, 2025
+Contents
+0.1 Have you ever wondered if autism could explain how you experience the world?
+1 Who the test is designed for
+2 Versions & translations
+3 Taking the test
+4 Scoring
+5 Subscales
+6 Average scores
+7 Mean scores
+8 Validity
+9 Discussion
+10 The RAADS–R
+11 What do my scores mean?
+12 Statements per subscales
+13 Recommended next steps
+14 References
+15 Tags
+16 Disclaimer
+Have you ever wondered if autism could explain how you experience the world?
+Take a few minutes to explore the RAADS-R, an 80-item self-report tool designed to uncover developmental, social, sensory, and communication traits that may indicate autism, especially in adults who were missed or misdiagnosed earlier in life.
+
+The Ritvo Autism Asperger Diagnostic Scale–Revised (RAADS‑R) is a validated instrument that helps identify autism in adults by examining lifelong patterns of cognition, perception, and behaviour. It’s especially helpful for those who relate to autistic traits but were not recognized due to masking, gender bias, or late-identified neurodivergence.
+
+The Ritvo Autism Asperger Diagnostic Scale–Revised (RAADS–R) is a self-report questionnaire designed to identify adult autistics who “escape diagnosis” due to a subclinical level presentation.
+
+Basic information
+Statements:	80
+Duration:	10–30 minutes
+Type:	Screening tool
+Authors:	Riva Ariella Ritvo et al.
+Publishing year:	2011
+Seminal paper:	The Ritvo Autism Asperger Diagnostic Scale-Revised (RAADS–R): A Scale to Assist the Diagnosis of Autism Spectrum Disorder in Adults: An International Validation Study (Ritvo et al., 2011)
+Original RAADS
+Statements:	78
+Publishing year:	2008
+Seminal paper:	A Scale to Assist the Diagnosis of Autism and Asperger’s Disorder in Adults (RAADS): A Pilot Study (Ritvo et al., 2008)
+Take the test here:
+
+RAADS–R
+Dr. Natalie Engelbrecht’s rating: 2 stars for appropriate and respectful wording, 1 stars for clarity & lack of ambiguity, and 4 stars for testing accuracy.
+Who the test is designed for
+
+Adults (age 16+) with ASD level 1 or subclinical autism.
+Adults with IQ in the normal range (IQ >=80).[1]
+Versions & translations
+
+The RAADS–R has been translated into Swedish, and was also available in most languages through Google Translate. But as of 13 January 2022, it seems the online RAADS–R tests have been taken down. As far as we know, we are currently the only ones who host the RAADS–R online, albeit in English only.
+
+Taking the test
+
+The RAADS–R is a self-report instrument. However, the authors mention that a clinician might help a participant interpret items if they have difficulty understanding the question.
+
+The test assesses developmental symptoms correlating with the three DSM-5 diagnostic categories (Language, Social relatedness, and Sensory–motor), as well as a fourth subscale, Circumscribed interests. It consists of 80 statements, giving you 4 choices for each statement:
+
+True now and when I was young
+True now only
+True only when I was younger than 16
+Never true
+If you decide to take the test, please consider the Discussion section below.
+
+Scoring
+
+Thresholds
+The scoring range of the RAADS–R is 0–240. A score of 65+ indicates you are likely autistic, as no neurotypical scored above 64 in the research. A score of <65 means you are likely not autistic. However, note that no single test is conclusive. For more certainty, we suggest taking a few other autism tests as well.
+
+In the table below, you can see the threshold scores and maximum possible scores for the subscales of the RAADS–R.
+
+RAADS–R scores
+❮
+Construct	Threshold score	Maximum score
+Total score	65	240
+Language	4	21
+Social relatedness	31	117
+Sensory–motor	16	60
+Circumscribed interests	15	42
+❯
+To see how your score compares to other people’s, have a look at the Average scores section. For more information on the RAADS–R subscales, have a look at the Subscales section below.
+
+Scoring methods
+You can take the test using two methods:
+
+Automated-scoring
+Paper-based if you want documentation of your answers (you can find the scoring key at the bottom of the PDF)
+Scoring
+The scoring of most of the statements (63) is as follows:
+
+True now and when I was young (3 points)
+True now only (2 points)
+True only when I was younger than 16 (1 point)
+Never true (0 points)
+However, the point value is reversed for the 17 so-called normative questions:[2]
+
+True now and when I was young (0 points)
+True now only (1 point)
+True only when I was younger than 16 (2 points)
+Never true (3 points)
+Below you can see an example of the first 3 questions, the first of which (denoted by an asterisk) is normative and thus has reversed scoring.
+
+Example questions of the RAADS-R (‘I am a sympathetic person’, ‘I often use words and phrases from movies and television in conversations’, ‘I am often surprised when others tell me I have been rude’).
+
+Subscales
+
+Language
+The language subscale is made up of 7 statements. The focus of these statements is on:
+
+Movie talk: Friends notice you’ve heard something new because you start using the word or phrase regularly.
+Small talk: A light conversation about unimportant things that people make during social interactions—instead of topics that are actually interesting and fun to talk about.
+Being literal: Having challenges when ‘what is said’ language does not match ‘what is meant’ language.
+Social relatedness
+The social relatedness subscale is made up of 39 statements. The focus of these statements is on:
+
+Mentalization: Challenges with understanding what others are thinking or feeling.
+Mutual interests: Preferring to be with people with whom you share interests.
+Outsider: Being considered ‘different’.
+Bluntness: Being called rude; or that you have asked embarrassing questions; or pointed out when others have made an error.
+Dialectical reciprocity: Challenges knowing when it is your turn to talk, in a conversation or on the phone.
+Emotional reciprocity: Difficulty knowing when a person is flirting with you.
+Auditory processing issues: Challenges talking with several people at the same time.
+Object permanence: Not missing people when they’re absent.
+Maintaining relationships: Challenges making or keeping friends.
+Nonverbal communication: Challenges understanding body language.
+Mimicry/imitation: Copying others’ behaviour to fit in.
+Camouflaging: Hiding your automatic behaviours to fit in with others.
+Sensory–motor
+The sensory–motor subscale is made up of 20 statements. The focus of these statements is on:
+
+Voice volume challenges: Talking very loud, not loud enough, or significant fluctuations between the two.
+Voice differences: Speaking monotone, like a child, or in silly voices.
+Motor control issues: Clumsiness and being uncoordinated.
+Sensory: Sensory stimulation that doesn’t bother others can be painful and overwhelming. The experience can differ significantly at various times or be context-dependent. You may get anxious when overstimulated.
+Circumscribed interests
+The circumscribed interests subscale is made up of 14 statements. The focus of these statements is on:
+
+Details preference: focuses on details before the big picture, but can do both.
+Upset when the unexpected occurs: A dislike of someone changing your routine—this does not mean that you stick to your own routine, just that you dislike someone else changing YOUR routine.
+Special interests: Speaking about them, having them…
+Average scores
+
+The table below shows the average total scores and subscores for people taking the RAADS-R, divided by autistic people, suspected autistic people, and non-autistic people (neurotypicals).
+
+Note: There is no data on how non-binary people score. In the absence of this information, we suggest either looking at the scores associated with your sex, or taking the average of two sexes.
+
+Average RAADS-R scores
+❮
+Total score	Language	Social
+relatedness	Sensory/
+motor	Circumscr.
+interests
+Autism threshold
+values	65.0	4.0	31.0	16.0	15.0
+Autistic males	148.6	11.9	71.3	36.7	28.7
+Autistic females	160.4	12.8	73.5	43.1	31.0
+Suspected autistic
+males	141.6	11.2	70.0	33.3	27.2
+Suspected autistic
+females	145.2	11.3	67.2	38.7	28.0
+Neurotypical males	84.2	6.6	43.0	19.0	15.7
+Neurotypical females	91.6	6.8	42.8	24.8	17.2
+❯
+You might ask, “If the threshold score is 65, and no neurotypicals scored higher than 64 in the research, then why are the average neurotypical scores above 80?” Excellent question!
+
+The answer is in how the data is being collected. The table above is based on people taking the RAADS–R online, which for research purposes starts with the question as to whether you are diagnosed with autism, suspect you’re autistic, or are not autistic. But some people that answered the latter will—contrary to their own expectations—end up scoring in the autistic range. Due to this misattribution, their scores get counted as neurotypical scores despite scoring in the autistic range, thus skewing the results.
+
+In other words, the average neurotypical scores as reported by the online RAADS–R (on Aspietests.org) are almost certainly too high. The average scores you can find in the research literature are more reliable, given that they use genuine neurotypicals as a control group. In the article below, you can find a table with average scores that I have taken from the research literature.
+
+A summary of the autism tests & scores
+
+Mean scores
+
+Because the table with average scores is based on skewed data, let me also present the mean scores from Ritvo’s seminal paper:[3]
+
+Mean RAADS–R scores
+❮
+Mean total	Range	Language	Social
+relatedness	Sensory/
+motor	Circumscr.
+interests
+Autistic spectrum (n = 66)	133.83	44–227	11.08	67.89	32.82	28.11
+Asperger (n = 135)	—	—	10.06	65.07	28.96	27.44
+Controls (n = 276)	25.95	0–65	1.86	9.24	5.26	5.03
+❯
+Validity
+
+The RAADS–R is a reliable instrument to assist the diagnosis of autistic adults.[4]
+
+No neurotypical who took the test scored above the autism threshold.
+Only 3% of the autistic group did not score over 65.
+Test–retest reliability was high, particularly for the autistic group.[5]
+Here is how the RAADS–R measures up:
+
+RAADS-R validity
+Measure	Result	Meaning
+Sensitivity	97%	Test’s ability to identify positive results
+Specificity	100%	Test’s ability to identify negative results
+Concurrent validity	96%	Test’s validity compared with ADOS Module 4, SRS
+Test–retest reliability	.987	Test’s agreement between results of successive measurements
+Sensitivity
+A sensitivity of 97% means that 97% of autistic people who took the test met the cutoff score and were accurately classified as autistic. Said another way, it represents the proportion of autistics who were correctly classified as autistic based on the questionnaire.
+
+In contrast, a 100% specificity score means that all (100% of) the neurotypical people who took the test were below the cutoff score and were accurately classified as non-autistic. It represents the proportion of neurotypicals who were correctly classified as neurotypical based on the questionnaire.
+
+The takeaway is that the RAADS–R has a high probability of accurately classifying those who take the test as autistic or not autistic.
+
+Total RAADS–R score
+A total RAADS–R score of 65 or higher is consistent with the diagnosis of autism and supports a clinician’s diagnosis. However, if there is a difference between the clinician’s diagnosis and the RAADS–R diagnostic assignment, the clinician’s diagnosis should take precedent. This is because symptoms may be revealed only during an interview.
+
+Also, the RAADS–R standardization study reported that many autism subjects, particularly those in their late teens and early twenties, failed to acknowledge the presence of symptoms that their families said were present and which were readily observed by the diagnostician.[6]
+Age, gender, & self-expectancy of autism
+Research also shows that a person’s age, gender, autism diagnosis, or whether an individual considered themselves to be autistic did not impact how they understood the survey; the only relevant factor is their actual neurotype. A 2024 study shows that diagnosed autistics and undiagnosed individuals who considered themselves to be autistic responded to the survey in a similar way; whereas those who were unsure whether they’re autistic were more different in their responses.[7]
+
+Interested in diving deeper?
+If your CAT‑Q score suggests significant camouflaging patterns, consider taking related measures like the CAT-Q, Autism Quotient, or Empathy Quotient—and reflect with a trusted practitioner or peer-support community.
+
+Subscribe to our newsletter for more insights into self-discovery as an autistic adult, and find professional support for a full autism or AuDHD assessment.
+
+ Recommended next steps
+
+After the RAADS–R, consider taking one of the tests below.
+
+Autism Spectrum Quotient
+A simple screening test that is used as a basis
+for pursuing a formal autism evaluation
+
+CAT-Q
+Measures camouflaging, and can account
+for lower scores on other autism tests
+
+Aspie Quiz
+Identifies neurodivergence and
+potential co-occurring conditions
+
+Online autism tests can play an essential role in the process of self-discovery, and may inform your decision to pursue a formal diagnosis. For a formal assessment, please see a knowledgeable medical professional trained in assessing autism.
+If you are looking for an autism/AuDHD assessment,
+Dr. Natalie Engelbrecht ND RP can offer help!
+You can find more information here:
+
+Autism/AuDHD assessments
+References
+ 
+References
+1↑	A Scale to Assist the Diagnosis of Autism and Asperger’s Disorder in Adults (RAADS): A Pilot Study (Ritvo et al., 2008)
+2↑, 3↑, 4↑	The Ritvo Autism Asperger Diagnostic Scale-Revised (RAADS–R): A scale to assist the diagnosis of autism spectrum disorder in adults: An international validation study (Ritvo et al., 2011)
+5↑	Table 7 – Test-retest data statistical analysis | The Ritvo Autism Asperger Diagnostic Scale-Revised (RAADS–R): A scale to assist the diagnosis of autism spectrum disorder in adults: An international validation study (Ritvo et al., 2011)
+6↑	The Ritvo Autism Asperger Diagnostic Scale-Revised (RAADS–R)
+7↑	Psychometric exploration of the RAADS-R with autistic adults: Implications for research and clinical practice (Sturm et al., 2024)
+8↑	Examining the Diagnostic Validity of Autism Measures Among Adults in an Outpatient Clinic Sample (Conner, Cramer, & McGonigle, 2019)s
+9↑	Diagnostic Criteria for Autism Spectrum Disorder | CDC
+10↑	The Ritvo Autism Asperger Diagnostic Scale-Revised (RAADS-R): A Scale to Assist the Diagnosis of Autism Spectrum Disorder in Adults: An International Validation Study (Ritvo et al., 2011)s
+
+
