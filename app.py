@@ -4,10 +4,10 @@ import json
 import streamlit as st
 
 # Paths to source files
-DESCRIPTION_PATH = Path("/Users/miolare/Documents/GitHub/Test/Description.txt")
-DESCRIPTION_TH_PATH = Path("/Users/miolare/Documents/GitHub/Test/Description_th.txt")
-TEST_PATH = Path("/Users/miolare/Documents/GitHub/Test/test.txt")
-TH_Q_PATH = Path("/Users/miolare/Documents/GitHub/Test/questions_th.json")
+DESCRIPTION_PATH = Path("Description.txt")
+DESCRIPTION_TH_PATH = Path("Description_th.txt")
+TEST_PATH = Path("test.txt")
+TH_Q_PATH = Path("questions_th.json")
 
 # Supported UI translations
 I18N = {
