@@ -215,15 +215,59 @@ with st.form("raads_form", clear_on_submit=False):
     submitted = st.form_submit_button(t["submit"])
 
 if submitted:
-    total = 0
+    # ตรวจสอบว่าตอบครบทุกข้อหรือไม่
+    missing_ids = []
     for q in questions:
         selected_label = st.session_state.get(f"q_{q['id']}", None)
-        choice_index = opt_labels.index(selected_label) if selected_label in opt_labels else None
-        is_normative = q["id"] in normative_items
-        total += score_item(choice_index, is_normative)
+        if selected_label not in opt_labels:
+            missing_ids.append(q["id"])
 
-    st.success(t["result_title"])
-    st.metric(t["total_score"], total)
-    st.write(f"• {t['interpretation']}: {interpret_score(total, lang_key)}")
-    st.write(f"• {t['recommendation']}: {recommendations_text(lang_key)}")
-    st.info(t["disclaimer"])
+    if missing_ids:
+        warn_msg = "กรุณาตอบให้ครบทุกข้อก่อนคำนวณคะแนน" if lang_key == "th" else "Please answer all items before scoring."
+        st.warning(warn_msg)
+        list_msg = "ข้อที่ยังไม่ตอบ: " if lang_key == "th" else "Unanswered items: "
+        st.write(list_msg + ", ".join(str(i) for i in missing_ids))
+    else:
+        total = 0
+        for q in questions:
+            selected_label = st.session_state.get(f"q_{q['id']}", None)
+            choice_index = opt_labels.index(selected_label) if selected_label in opt_labels else None
+            is_normative = q["id"] in normative_items
+            total += score_item(choice_index, is_normative)
+
+        st.success(t["result_title"])
+        st.metric(t["total_score"], total)
+        st.write(f"• {t['interpretation']}: {interpret_score(total, lang_key)}")
+        st.write(f"• {t['recommendation']}: {recommendations_text(lang_key)}")
+        st.info(t["disclaimer"]) 
+        
+        # สร้างไฟล์ CSV คำตอบและแสดงปุ่มดาวน์โหลดด้วยตนเอง
+        import csv, io, base64
+        from datetime import datetime
+        rows = []
+        for q in questions:
+            q_text = TH_QUESTIONS.get(str(q["id"])) if lang_key == "th" else q["text"]
+            selected_label = st.session_state.get(f"q_{q['id']}", None)
+            choice_index = opt_labels.index(selected_label) if selected_label in opt_labels else None
+            is_normative = q["id"] in normative_items
+            score_val = score_item(choice_index, is_normative)
+            rows.append([
+                q["id"],
+                q_text,
+                selected_label or "",
+                (choice_index + 1) if choice_index is not None else "",
+                "Y" if is_normative else "N",
+                score_val,
+            ])
+
+        buffer = io.StringIO()
+        writer = csv.writer(buffer)
+        writer.writerow(["id", "question", "answer_label", "answer_choice", "normative", "score"])
+        writer.writerows(rows)
+        csv_content = buffer.getvalue()
+        file_name = f"raads_answers_{lang_key}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv"
+        csv_b64 = base64.b64encode(csv_content.encode("utf-8")).decode()
+
+        # ปุ่มดาวน์โหลดไฟล์ CSV ด้วยตนเอง
+        dl_label = "ดาวน์โหลด CSV" if lang_key == "th" else "Download CSV"
+        st.download_button(dl_label, data=csv_content, file_name=file_name, mime="text/csv")
